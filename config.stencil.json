@@ -2,7 +2,9 @@
   "customLayouts": {
     "brand": {},
     "category": {},
-    "page": {},
+    "page": {
+      "productdocumentation.html":"/product-documentation/"
+    },
     "product": {}
   },
   "normalStoreUrl": "https://cannariver-sandbox.mybigcommerce.com",
